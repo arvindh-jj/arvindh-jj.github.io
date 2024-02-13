@@ -345,6 +345,9 @@ section .container {
   font-size: 26px;
   color: #18d26e;
 }
+.about-me .content span{
+  color: #18d26e;
+}
 .about-me .content ul {
   list-style: none;
   padding: 0;
