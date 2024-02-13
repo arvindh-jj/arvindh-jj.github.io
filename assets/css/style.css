@@ -345,7 +345,7 @@ section .container {
   font-size: 26px;
   color: #18d26e;
 }
-.about-me .content span{
+.about-me .content em{
   color: #18d26e;
 }
 .about-me .content ul {
